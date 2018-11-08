@@ -1,4 +1,4 @@
 # iot
-Internet of Things https://github.com/gphua-iot
+Internet of Things
 
 Checkout this link instead https://github.com/gphua-iot
